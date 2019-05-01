@@ -1,5 +1,5 @@
 # CD-LDA
-Learning Latent Events from Network Message Logs
+This is an implementation of the paper `Learning Latent Events from Network Message Logs' for a synthetic dataset. It deals with finding patterns in mixture of time series
 
 datainitCDLDA.py - generates a time series data
  
